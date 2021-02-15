@@ -12,7 +12,6 @@ Seoul, Korea<br/>
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="typescript" width="48px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40px" style="padding:4px"/>
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="typescript" width="48px" />
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="typescript" width="48px" />
 </div>
 
 ## Timeline:
