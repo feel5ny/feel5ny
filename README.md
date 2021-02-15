@@ -22,6 +22,7 @@ Seoul, Korea<br/>
 - 🎓 (2010.03 ~ 2016.08) Graduated from the Contents Design at Seoul Woman's University
 
 ## Experience:
+- ✏️ (2018.02 ~ ) 블로그 글쓰기 모임 - [글또](https://bit.ly/geultto) (글쓰는 또라이가 세상을 바꾼다)
 - 👩🏻‍💻 (2020.10) [Plazma at Treasure Data](https://plazma.red/ko/event-plazma-korea/) speaker: [굿닥 데이터로 살펴보고 극복하는 COVID-19
 ](https://www.treasuredata.com/ko/plazma13-korea/)
 - 👩🏻‍💻 (2019.10) [Google devfest 2019 Seoul](https://festa.io/events/559) speaker: [아토믹 패턴으로 디자이너와 협업하기](https://speakerdeck.com/feel5ny/atomig-paeteoneuro-dijaineowa-hyeobeobhagi)
