@@ -1,5 +1,6 @@
 ### Hi there 👋
 ## Joy Kim
+Nayoung Kim<br/>
 @feel5ny<br/>
 feel5.nayoung@gmail.com<br/>
 Seoul, Korea<br/>
