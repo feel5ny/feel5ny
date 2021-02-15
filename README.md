@@ -24,7 +24,7 @@ Seoul, Korea<br/>
 ## Experience:
 - ✏️ (2018.02 ~ ) 블로그 글쓰기 모임 - [글또](https://bit.ly/geultto) (글쓰는 또라이가 세상을 바꾼다)
 - 👩🏻‍💻 (2020.10) [Plazma at Treasure Data](https://plazma.red/ko/event-plazma-korea/) speaker: [굿닥 데이터로 살펴보고 극복하는 COVID-19
-](https://www.treasuredata.com/ko/plazma13-korea/)
+](https://www.treasuredata.com/ko/plazma13-korea/) (with @Kyle)
 - 👩🏻‍💻 (2019.10) [Google devfest 2019 Seoul](https://festa.io/events/559) speaker: [아토믹 패턴으로 디자이너와 협업하기](https://speakerdeck.com/feel5ny/atomig-paeteoneuro-dijaineowa-hyeobeobhagi)
 - 👩🏻‍💻 (2019.07) [Google Cloud Busan WTM](https://festa.io/events/370) speaker: [기록하며 성장하기](https://speakerdeck.com/feel5ny/giroghamyeo-seongjanghagi)
 - 👩🏻‍🎨 (2017.11 ~ 2017.12) Design staff at GCPUG Conference 2017 `withGCP`
