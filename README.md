@@ -28,7 +28,7 @@ Seoul, Korea<br/>
 - 👩🏻‍🎨 (2017.11 ~ 2017.12) Design staff at GCPUG Conference 2017 `withGCP`
 
 
-[![Joy Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=feel5ny&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Joy Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=feel5ny&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **feel5ny/feel5ny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
