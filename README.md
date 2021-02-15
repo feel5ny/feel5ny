@@ -1,4 +1,35 @@
 ### Hi there 👋
+## Joy Kim
+@feel5ny<br/>
+feel5.nayoung@gmail.com<br/>
+Seoul, Korea<br/>
+[Github](https://github.com/feel5ny) | [LinkedIn](https://www.linkedin.com/in/feel5ny/) | [Blog](https://feel5ny.github.io/)
+
+## Technologies:
+**Proficient**: JavaScript, Typescript, HTML, CSS, React, Redux, Git, React- Redux, Redux-Saga<br/>
+**Knowledgeable**: Cypress, Jest, SQL, Jenkins
+<div style="display:flex;">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="typescript" width="48px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40px" style="padding:4px"/>
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="typescript" width="48px" />
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="typescript" width="48px" />
+</div>
+
+## Timeline:
+- 👩🏻‍💻 (2021.02 ~ ) Freelancer
+- 👩🏻‍💻 (2018.01 ~ 2021.02) Goodoc FrontEnd Developer
+- 👩🏻‍🎨 (2016.10 ~ 2017.05) LIKELION Designer
+- 🎓 (2010.03 ~ 2016.08) Graduated from the Contents Design at Seoul Woman's University
+
+## Experience:
+- 👩🏻‍💻 (2020.10) [Plazma at Treasure Data](https://plazma.red/ko/event-plazma-korea/) speaker: [굿닥 데이터로 살펴보고 극복하는 COVID-19
+](https://www.treasuredata.com/ko/plazma13-korea/)
+- 👩🏻‍💻 (2019.10) [Google devfest 2019 Seoul](https://festa.io/events/559) speaker: [아토믹 패턴으로 디자이너와 협업하기](https://speakerdeck.com/feel5ny/atomig-paeteoneuro-dijaineowa-hyeobeobhagi)
+- 👩🏻‍💻 (2019.07) [Google Cloud Busan WTM](https://festa.io/events/370) speaker: [기록하며 성장하기](https://speakerdeck.com/feel5ny/giroghamyeo-seongjanghagi)
+- 👩🏻‍🎨 (2017.11 ~ 2017.12) Design staff at GCPUG Conference 2017 `withGCP`
+
+
+[![Joy Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=feel5ny&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **feel5ny/feel5ny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
