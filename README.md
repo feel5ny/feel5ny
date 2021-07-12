@@ -18,7 +18,7 @@ Seoul, Korea<br/>
 </div>
 
 ## Timeline:
-- 👩🏻‍💻 (2021.03 ~ ) Banksalad FrontEnd Developer
+- 👩🏻‍💻 (2021.03 ~ ) [Banksalad](https://www.banksalad.com/) FrontEnd Developer
 - 👩🏻‍💻 (2018.01 ~ 2021.02) [Goodoc](https://www.goodoc.co.kr) FrontEnd Developer
 - 👩🏻‍🎨 (2016.10 ~ 2017.05) [LIKELION](https://likelion.net/) Designer
 - 🎓 (2010.03 ~ 2016.08) Graduated from the Contents Design at Seoul Woman's University
