@@ -12,9 +12,9 @@ Seoul, Korea<br/>
 **Proficient**: JavaScript, Typescript, HTML, CSS, React, Redux, Git, React- Redux, Redux-Saga<br/>
 **Knowledgeable**: Cypress, Jest, SQL, Jenkins
 <div style="display:flex;">
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="typescript" width="48px" />
-  <img src="https://media.giphy.com/media/MhAjImzXlNF5r7m3O5/giphy.gif" alt="typescript" width="48px" />
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="typescript" width="48px" />
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="typescript" width="48px" height="48px" />
+  <img src="https://media.giphy.com/media/MhAjImzXlNF5r7m3O5/giphy.gif" alt="typescript" width="48px" height="48px" />
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="typescript" width="48px" height="48px" />
 </div>
 
 ## Timeline:
