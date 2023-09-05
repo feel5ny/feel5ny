@@ -24,9 +24,10 @@ Seoul, Korea<br/>
 - 🎓 (2010.03 ~ 2016.08) Graduated from the Contents Design at Seoul Woman's University
 
 ## Experience:
-- ✏️ (2018.02 ~ ) 블로그 글쓰기 모임 - [글또](https://bit.ly/geultto) (글쓰는 또라이가 세상을 바꾼다)
+- 👩🏻‍🏫 (2022.02 ~ ) 예비개발자 멘토링 - [K-Digital Training: 빅데이터 플랫폼 프론트엔드 엔지니어링](https://school.programmers.co.kr/learn/courses/17920/17920-5%EA%B8%B0-k-digital-training-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%8C%EB%9E%AB%ED%8F%BC-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81)
+- ✏️ (2018.02 ~ 2021.03) 블로그 글쓰기 모임 - [글또](https://bit.ly/geultto) (글쓰는 또라이가 세상을 바꾼다)
 - 👩🏻‍💻 (2020.10) [Plazma at Treasure Data](https://plazma.red/ko/event-plazma-korea/) speaker: [굿닥 데이터로 살펴보고 극복하는 COVID-19
-](https://www.treasuredata.com/ko/plazma13-korea/) (with @Kyle)
+](https://www.treasuredata.com/ko/plazma13-korea/)
 - 👩🏻‍💻 (2019.10) [Google devfest 2019 Seoul](https://festa.io/events/559) speaker: [아토믹 패턴으로 디자이너와 협업하기](https://speakerdeck.com/feel5ny/atomig-paeteoneuro-dijaineowa-hyeobeobhagi)
 - 👩🏻‍💻 (2019.07) [Google Cloud Busan WTM](https://festa.io/events/370) speaker: [기록하며 성장하기](https://speakerdeck.com/feel5ny/giroghamyeo-seongjanghagi)
 - 👩🏻‍🎨 (2017.11 ~ 2017.12) Design staff at GCPUG Conference 2017 `withGCP`
