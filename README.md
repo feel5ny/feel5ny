@@ -6,7 +6,7 @@ Nayoung Kim<br/>
 @feel5ny<br/>
 feel5.nayoung@gmail.com<br/>
 Seoul, Korea<br/>
-[Github](https://github.com/feel5ny) | [LinkedIn](https://www.linkedin.com/in/feel5ny/) | [Blog](https://feel5ny.github.io/)
+[Github](https://github.com/feel5ny) | [LinkedIn](https://www.linkedin.com/in/feel5ny/) | [Blog](https://feel5ny.github.io/) | [Simple Resume](https://read.cv/feel5ny)
 
 ## Technologies:
 **Proficient**: JavaScript, Typescript, HTML, CSS, React, Redux, Git, React- Redux, Redux-Saga<br/>
