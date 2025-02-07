@@ -18,12 +18,14 @@ Seoul, Korea<br/>
 </div>
 
 ## Timeline:
+- 👶🏻 (2024.10 ~ ) 육아휴직
 - 👩🏻‍💻 (2021.03 ~ ) [Banksalad](https://www.banksalad.com/) FrontEnd Developer
 - 👩🏻‍💻 (2018.01 ~ 2021.02) [Goodoc](https://www.goodoc.co.kr) FrontEnd Developer
 - 👩🏻‍🎨 (2016.10 ~ 2017.05) [LIKELION](https://likelion.net/) Designer
 - 🎓 (2010.03 ~ 2016.08) Graduated from the Contents Design at Seoul Woman's University
 
 ## Experience:
+- 👩🏻‍🏫 (2024.03 ~ 2025.2) 주니어개발자 멘토링 - [항해 플러스 프론트엔드](https://hanghae99.spartacodingclub.kr/plus/fe)
 - 👩🏻‍🏫 (2022.02 ~ ) 예비개발자 멘토링 - [K-Digital Training: 빅데이터 플랫폼 프론트엔드 엔지니어링](https://school.programmers.co.kr/learn/courses/17920/17920-5%EA%B8%B0-k-digital-training-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%8C%EB%9E%AB%ED%8F%BC-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81)
 - ✏️ (2018.02 ~ 2021.03) 블로그 글쓰기 모임 - [글또](https://bit.ly/geultto) (글쓰는 또라이가 세상을 바꾼다)
 - 👩🏻‍💻 (2020.10) [Plazma at Treasure Data](https://plazma.red/ko/event-plazma-korea/) speaker: [굿닥 데이터로 살펴보고 극복하는 COVID-19
